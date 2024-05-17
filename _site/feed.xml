@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-17T10:54:27+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mwa’s blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Riccardo Graziosi</name></author><entry><title type="html">Welcome to my blog</title><link href="http://localhost:4000/introduction/2024/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to my blog" /><published>2024-05-17T10:13:00+03:00</published><updated>2024-05-17T10:13:00+03:00</updated><id>http://localhost:4000/introduction/2024/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/introduction/2024/05/17/welcome-to-jekyll.html"><![CDATA[<p>Hello, This is my blog i will be posting here more detailed info about me/tech etc i will still use bluesky for shorter stuff thats pretty much it</p>
+
+<p><br />
+Note: These links will take you offsite
+<br />
+Host: <a href="https://vercel.com">Vercel</a>
+<br />
+Blog managment: <a href="https://jekyllrb.com/">Jekyll</a>
+<br />
+Jekyll theme: <a href="https://github.com/riggraz/no-style-please">No style please (Modified)</a></p>]]></content><author><name>Riccardo Graziosi</name></author><category term="introduction" /><summary type="html"><![CDATA[Hello, This is my blog i will be posting here more detailed info about me/tech etc i will still use bluesky for shorter stuff thats pretty much it]]></summary></entry></feed>
