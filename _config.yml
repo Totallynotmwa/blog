@@ -30,8 +30,7 @@ github_username:  totallynotmwa
 
 # Build settings
 #theme: no-style-please
-riggraz
-remote_theme: hydecorp/hydejack@v9
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
